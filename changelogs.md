@@ -16,6 +16,3 @@ Repair
 * bug fixes and code & optimizations
 * Important you need Brutal Busybox Module Installed!
 
-**Support**
-* Support : [MTKPERF](https://t.me/mtkperf)
-* Contacts : [Owner](https://t.me/Akemiinawa)
