@@ -1,15 +1,20 @@
 ## Changelogs
-**V1.0 Komodo - Latest**
-* Initial Release
-* Added Unlocker Gaming
-* Added Disable Thermal for force performance
-* Added touch screen sensitivity.
-* Fixed better performance and battery life.
-* optimized CPU Boost Scripts
-* Added some necessary Build props
-* Miscellaneous Improvements
+**V2.0 SAGIRI IZUMI * Latest**
+* Improve scrolling
+* Increase network connection speed
+* Improve listening ability
+* Reduce battery consumption
+* Added GPU acceleration
+* Module Adjustments
+More compatibility fixes for Mediatek G85
+Fixed battery drain after last update for some devices
+* Enabled & configured exchange for better multitasking and performance
+* Eliminated low volume microphone issues for various Android devices. 
+* For a better accessibility experience
+Repair
+* Removes anything added
+* bug fixes and code & optimizations
 * Important you need Brutal Busybox Module Installed!
-* Added Cache Cleaner Executable Script. How To Use? [Click Here!](https://telegra.ph/How-To-Use-Remove-Cache-Script-At-MTKPERF-Magisk-Module-10-23)
 
 **Support**
 * Support : [MTKPERF](https://t.me/mtkperf)
