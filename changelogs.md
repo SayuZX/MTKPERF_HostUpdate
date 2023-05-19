@@ -1,5 +1,5 @@
 ## Changelogs
-**V2.0 SAGIRI IZUMI * Latest**
+**V2.0 SAGIRI IZUMI - Latest**
 * Improve scrolling
 * Increase network connection speed
 * Improve listening ability
