@@ -39,8 +39,20 @@ Fixed battery drain after last update for some devices
 Repair
 * Removes anything added
 * bug fixes and code & optimizations
+* Important you need Busybox Module Installed!
+  
+**V1.0 Komodo**
+* Added Unlocker Gaming
+* Added Disable Thermal
+* Added touch screen sensitivity.
+* Fixed better performance and battery life.
+* optimized CPU Boost Scripts
+* Added some necessary Build props
+* Miscellaneous Improvements
+* And Anymore!
 * Important you need Brutal Busybox Module Installed!
-
+* Added HW Overlay Disabler For Better FPS
+  
 ## Credits
 _________________________________
 @Zackptg5 for MMT Extended
